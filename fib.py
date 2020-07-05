@@ -11,7 +11,7 @@ def fib(n):
     else:
         return fib(n - 1) + fib(n - 2)
 
-#Testing the function here. ignore/remove the code below if not required.
+
 print(fib(1))
 print(fib(3))
 print(fib(10))
